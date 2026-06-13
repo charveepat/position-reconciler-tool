@@ -1,0 +1,17 @@
+RECONCILIATION SUMMARY
+========================================
+Generated: 2026-06-13 12:16:17
+Total positions checked: 10
+Matched (OK): 3
+Breaks (exceeds tolerance): 7
+Missing data: 0
+
+BREAK DETAILS
+----------------------------------------
+  AAPL: Source A = 295.63, Source B = 291.13, Diff = -1.5222%  -> escalate for review
+  GOOGL: Source A = 357.77, Source B = 359.68, Diff = 0.5339%  -> escalate for review
+  AMZN: Source A = 241.51, Source B = 238.55, Diff = -1.2256%  -> escalate for review
+  TSLA: Source A = 399.15, Source B = 406.43, Diff = 1.8239%  -> escalate for review
+  JPM: Source A = 313.49, Source B = 320.72, Diff = 2.3063%  -> escalate for review
+  V: Source A = 319.05, Source B = 322.39, Diff = 1.0469%  -> escalate for review
+  BRK-B: Source A = 485.79, Source B = 489.25, Diff = 0.7122%  -> escalate for review
